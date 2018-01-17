@@ -1,0 +1,14 @@
+{
+  "name": "factory-ts-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fixture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "factory.ts": "^0.2.2"
+  }
+}
